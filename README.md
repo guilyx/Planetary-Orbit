@@ -13,7 +13,7 @@ Demonstrates Newton's Law of Universal Gravitation.
 
 ## Prerequisites
 
-A list of required libraries is located in requirments.txt and can be installed via Pip with ```pip install -r requirments.txt```
+A list of required libraries is located in requirments.txt and can be installed via Pip with ```pip install -r requirements.txt```
 
 ## Built With
 
